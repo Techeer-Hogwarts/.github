@@ -6,11 +6,11 @@
 </div>
 
 ## Table of Contents
-- [Demo](##Demo)
-- [System Architechture](##System-Architechture)
-- [Tech stack](##Tech-stack)
-- [ERD](##ERD)
-- [Member](##Member)
+- [Demo](#Demo)
+- [System Architechture](#System-Architechture)
+- [Tech stack](#Tech-stack)
+- [ERD](#ERD)
+- [Member](#Member)
 
 ## DEMO
 
