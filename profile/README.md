@@ -1,10 +1,12 @@
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/085dbce5-48ef-4dd4-8214-15b69ba6ceed" alt="banner" width="600" height="auto">
+![new system architecture](https://github.com/user-attachments/assets/279999a1-f7f4-4e25-9f21-2c4409c173db)<div align=center>
+<br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/085dbce5-48ef-4dd4-8214-15b69ba6ceed">
+
+<br> Of the Techeer, By the Techeer, For the Techeer 
+##### URL : https://www.techeerzip.cloud/
 </div>
 
 
 ## Table of Contents
-- [Introduction](#-Introduction)
 - [Demo](#-Demo)
 - [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
@@ -17,11 +19,14 @@
 - [Member](#-Member)
 
 
-## Introduction
-
 ## DEMO
 
 ## System Architecture
+
+### High level System Architecture
+![new system architecture](https://github.com/user-attachments/assets/342c606b-b121-4088-a3f9-001f63c3004d)
+### CI/CD Workflows
+![cd flow](https://github.com/user-attachments/assets/4e2b2daa-a4a0-4cb2-bb5f-29cd53a3c88c)
 
 ## Tech Stack
 
