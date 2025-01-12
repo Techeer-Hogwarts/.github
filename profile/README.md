@@ -7,7 +7,7 @@
 
 ## Table of Contents
 - [Demo](#Demo)
-- [System Architechture](#System-Architechture)
+- [System Architechture](#System-architecture)
 - [Tech stack](#Tech-stack)
 - [ERD](#ERD)
 - [Member](#Member)
