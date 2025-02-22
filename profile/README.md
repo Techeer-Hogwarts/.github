@@ -6,18 +6,15 @@
 </div>
 
 ## Table of Contents
-- [Demo](#Demo)
 - [System Architechture](#System-architecture)
 - [Tech stack](#Tech-stack)
 - [ERD](#ERD)
 - [Member](#Member)
 
-## DEMO
-
 ## System Architecture
 
 ### High level System Architecture
-![new system architecture](https://github.com/user-attachments/assets/342c606b-b121-4088-a3f9-001f63c3004d)
+![new system architecture](https://github.com/user-attachments/assets/f97127c2-7153-4da3-b398-d5fb086abc51)
 ### CI/CD Workflows
 ![cd flow](https://github.com/user-attachments/assets/4e2b2daa-a4a0-4cb2-bb5f-29cd53a3c88c)
 
@@ -53,3 +50,9 @@
 | Profile  | <center><img width="100px" height="100px" src="https://ca.slack-edge.com/T02AD1HSVSL-U06GE2AJWK1-b9d7984ee0d5-512" /></center> | <center><img width="100px" height="100px" src="https://ca.slack-edge.com/T02AD1HSVSL-U06GNR1FGMC-14afdd7757a8-512" /></center> | <center><img width="100px" height="100px" src="https://github.com/user-attachments/assets/3b045c9f-193e-4748-8efe-66e5f0237978" /></center> | <center><img width="100px" height="100px" src="https://avatars.githubusercontent.com/u/87265951?u=9d8f72d2c19d95c1b9bca484310d33e62f34233d&v=4" /></center> | <center><img width="100px" height="100px" src="https://avatars.githubusercontent.com/u/86213086?v=4" /></center> |
 | Role     | <center> Backend </center> | <center>Frontend</center> | <center> Backend <br> DevOps </center> | <center> Backend </center> | <center> DevOps <br> Monitoring <br> Infra <br> Backend </center> |
 | GitHub   | <center><img src="http://img.shields.io/badge/dlwhsk0-green?style=social&logo=github"/></center> | <center><img src="http://img.shields.io/badge/Ye0ngjun-green?style=social&logo=github"/></center> | <center><img src="http://img.shields.io/badge/suhach0523-green?style=social&logo=github"/></center> | <center><img src="http://img.shields.io/badge/jihye1006-green?style=social&logo=github"/></center> | <center><img src="http://img.shields.io/badge/printSANO-green?style=social&logo=github"/></center> |
+
+| Name     | <center>김진희</center> | <center>김홍석</center> | <center>비밀</center> | <center>비밀</center> | <center>비밀</center> |
+| :------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+| Profile  | <center><img width="100px" height="100px" src="https://avatars.githubusercontent.com/u/127485569?v=4" /></center> | <center><img width="100px" height="100px" src="https://ca.slack-edge.com/T02AD1HSVSL-U07FUTXKTPU-ade695668767-512" /></center> | <center><img width="100px" height="100px" src="https://cdn-icons-png.flaticon.com/512/3524/3524335.png" /></center> | <center><img width="100px" height="100px" src="https://cdn-icons-png.flaticon.com/512/3524/3524335.png" /></center> | <center><img width="100px" height="100px" src="https://cdn-icons-png.flaticon.com/512/3524/3524335.png" /></center> |
+| Role     | <center> Backend <br> Frontend </center> | <center>Backend</center> | <center> 비밀 </center> | <center> 비밀 </center> | <center> 비밀 </center> |
+| GitHub   | <center><img src="http://img.shields.io/badge/kimzini-green?style=social&logo=github"/></center> | <center><img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/></center> | <center><img src=""/></center> | <center><img src=""/></center> | <center><img src=""/></center> |
