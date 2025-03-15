@@ -14,7 +14,8 @@
 ## System Architecture
 
 ### High level System Architecture
-![new system architecture](https://github.com/user-attachments/assets/3eb4dbae-1fe2-4cc2-a0d7-64a2d1484ce6)
+![image (17)](https://github.com/user-attachments/assets/0f829e0b-f528-498f-8c98-ad55b90fe446)
+
 ### CI/CD Workflows
 ![cd flow](https://github.com/user-attachments/assets/4e2b2daa-a4a0-4cb2-bb5f-29cd53a3c88c)
 
