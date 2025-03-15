@@ -17,7 +17,8 @@
 ![image (17)](https://github.com/user-attachments/assets/0f829e0b-f528-498f-8c98-ad55b90fe446)
 
 ### CI/CD Workflows
-![cd flow](https://github.com/user-attachments/assets/4e2b2daa-a4a0-4cb2-bb5f-29cd53a3c88c)
+![image](https://github.com/user-attachments/assets/00ee9756-9cb7-45f7-98b9-c8784ad69d18)
+
 
 ## Tech Stack
 
