@@ -14,8 +14,7 @@
 ## System Architecture
 
 ### High level System Architecture
-![image](https://github.com/user-attachments/assets/f30cb5ff-a082-4b97-85df-a45b83c818f3)
-
+<img width="3752" height="2938" alt="new system architecture (1)" src="https://github.com/user-attachments/assets/f3cf483e-8a51-4938-b933-de0815d3676d" />
 
 
 ### CI/CD Workflows
@@ -23,7 +22,7 @@
 
 
 ## ERD
-![스크린샷 2025-01-12 오후 4 52 47](https://github.com/user-attachments/assets/6d2d3b40-2c70-45c0-9bc0-e3e40f648453)
+<img width="2019" height="1171" alt="스크린샷 2025-08-26 오후 11 15 38" src="https://github.com/user-attachments/assets/e4081a8b-e89e-473b-8254-d0f184b47cd4" />
 
 
 ## Member
